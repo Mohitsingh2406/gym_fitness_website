@@ -72,6 +72,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
             size="large"
           />
         )}
+        
       </Stack>
     </Box>
   );
